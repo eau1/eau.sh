@@ -33,7 +33,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-blog_theme: light # Or use dark
+theme: light # Or use dark
 name: Chalk
 paginate: 25
 url: http://eau.sh
