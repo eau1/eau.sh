@@ -36,6 +36,7 @@ plugins:
 blog_theme: light # Or use dark
 name: Chalk
 paginate: 25
+url: http://eau.sh
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
